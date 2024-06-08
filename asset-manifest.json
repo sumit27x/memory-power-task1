@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-power-task1/static/css/main.22cd9add.css",
+    "main.js": "/memory-power-task1/static/js/main.523ebfbe.js",
+    "static/media/press-reporter-fallowing-leads-case.jpg": "/memory-power-task1/static/media/press-reporter-fallowing-leads-case.3bab18feef2d27b7c234.jpg",
+    "static/media/portrait-professional-elegant-businessman.jpg": "/memory-power-task1/static/media/portrait-professional-elegant-businessman.0a21fdb53227cfc52c27.jpg",
+    "static/media/img12.jpg": "/memory-power-task1/static/media/img12.a7b95da28401945b1938.jpg",
+    "static/media/img11.jpg": "/memory-power-task1/static/media/img11.823e5543559d41f83be9.jpg",
+    "static/media/hero-img1.png": "/memory-power-task1/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/about-us.png": "/memory-power-task1/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/memory-power-task1/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/seo.png": "/memory-power-task1/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/memory-power-task1/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/memory-power-task1/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/memory-power-task1/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/memory-power-task1/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "index.html": "/memory-power-task1/index.html",
+    "main.22cd9add.css.map": "/memory-power-task1/static/css/main.22cd9add.css.map",
+    "main.523ebfbe.js.map": "/memory-power-task1/static/js/main.523ebfbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cd9add.css",
+    "static/js/main.523ebfbe.js"
+  ]
+}
